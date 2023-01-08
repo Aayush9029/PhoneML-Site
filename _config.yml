@@ -39,21 +39,13 @@ features:
     description: Classify live view in real time using your iPhones camera and any CoreML model.
     fontawesome_icon_name: mobile
 
-  - title: Cloud Models
-    description: Use any CoreML model from the PhoneML cloud store.
+  - title: Cloud Models + Cloud News
+    description: Use any CoreML model from the PhoneML cloud store and stay upto date with ML and AI news.
     fontawesome_icon_name: cloud
 
   - title: Automatic Icon and Metadata
     description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name: sync
-
-  - title: ML News
-    description: Get the latest news about machine learning and artificial intelligence.
-    fontawesome_icon_name: newspaper
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 # Theme Settings
 topbar_color: "#000000"
