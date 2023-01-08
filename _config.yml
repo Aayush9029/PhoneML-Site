@@ -49,7 +49,7 @@ features:
 
   - title: ML News
     description: Get the latest news about machine learning and artificial intelligence.
-    fontawesome_icon_name: Newspaper
+    fontawesome_icon_name: newspaper
 
   - title: # New Feature Title
     description: # New Feature Description
