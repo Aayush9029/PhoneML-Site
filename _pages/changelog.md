@@ -12,6 +12,18 @@ Experience an entirely new way of training machine learning models on your iPhon
 
 ### `Latest`
 
+# **Version 2.1**
+
+Train Model on-device
+
+#### What's New
+
+- Added ability to train machine learning model using camera.
+- Added AI assist
+- Fixed internet model sources
+- Update ML News UI
+- UI + UX Improvements
+
 # **Version 2.0**
 
 A fast, easy way to create and run machine learning model on-device – no expertise or coding required.
@@ -23,3 +35,4 @@ A fast, easy way to create and run machine learning model on-device – no exper
 - Added support for iPhone 6s and older devices
 - Added Camera support for iPhone 6s and older devices (iPhone 6s and older devices can only run models with camera input)
 - Added CloudModel store
+
