@@ -18,7 +18,6 @@ iOS 17 Update, Complete re-rewrite from the ground up.
 
 #### What's New
 
-- New app Icon
 - Complete UI + UX Changes
 - Sleek New App Icon: We’ve updated our app icon for a fresh, modern look.
 - Revamped User Interface and Experience: We’ve completely redesigned our UI and UX for a more intuitive and enjoyable user experience.
